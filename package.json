@@ -1,0 +1,22 @@
+{
+  "name": "table-reservations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-barfield/Table-Reservations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-barfield/Table-Reservations/issues"
+  },
+  "homepage": "https://github.com/justin-barfield/Table-Reservations#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
